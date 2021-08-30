@@ -22,6 +22,10 @@ body{
   color: #ffffff;
   background-color: #1b0088;
 }
+#bit{
+  color: #1b0088;
+  background-color: #ffffff; 
+}
 .navbar-toggler{
   color: #ffffff;
   background-color: #1b0088;
