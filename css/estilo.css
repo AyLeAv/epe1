@@ -33,7 +33,9 @@ body{
 .card{
   color: #ffffff;
   background-color: #1b0088;
-  
+}
+#lim{
+  display:inline;
 }
 
 .text-uppercase {
